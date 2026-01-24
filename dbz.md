@@ -1,7 +1,7 @@
 # API DBZ
 ----
 ## Link API
-[DBZ API](http://# API DBZ ---- ## Link API ´´´ https://raw.githubusercontent.com/Sergi0Y/dragon-ball-api/refs/heads/main/Json/characters.json ´´´ "DBZ API")
+[DBZ API](https://raw.githubusercontent.com/Sergi0Y/dragon-ball-api/refs/heads/main/Json/characters.json)
 
 ---
 https://raw.githubusercontent.com/Sergi0Y/dragon-ball-api/refs/heads/main/Json/characters.json
