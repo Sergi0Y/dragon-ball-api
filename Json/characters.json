@@ -7,17 +7,17 @@
   "personajes": [
     {
       "id": 1,
-      "nombre": "Goku",
-      "transformacion": "Base",
-      "saga": "Manga",
-      "imagen_url": "https://images.ストップ.com/ejemplo-gohan-beast.png"
+      "name": "Goku",
+      "form": "Base",
+      "rank": "B",
+      "url_img": "https://images.ストップ.com/ejemplo-gohan-beast.png"
     },
     {
       "id": 2,
-      "nombre": "Vegeta",
-      "transformacion": "Base",
-      "saga": "Manga",
-      "imagen_url": "https://images.ストップ.com/ejemplo-vegeta-ego.png"
+      "name": "Vegeta",
+      "form": "Base",
+      "rank": "B",
+      "url_img": "https://images.ストップ.com/ejemplo-vegeta-ego.png"
     }
   ]
 }
