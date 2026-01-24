@@ -1,0 +1,23 @@
+{
+  "info": {
+    "nombre_api": "Dragon Ball DBS Private API",
+    "autor": "Sergio Yáñez",
+    "version": "1.0"
+  },
+  "personajes": [
+    {
+      "id": 1,
+      "nombre": "Goku",
+      "transformacion": "Base",
+      "saga": "Manga",
+      "imagen_url": "https://images.ストップ.com/ejemplo-gohan-beast.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Vegeta",
+      "transformacion": "Base",
+      "saga": "Manga",
+      "imagen_url": "https://images.ストップ.com/ejemplo-vegeta-ego.png"
+    }
+  ]
+}
