@@ -6,6 +6,11 @@
 ---
 https://raw.githubusercontent.com/Sergi0Y/dragon-ball-api/refs/heads/main/Json/characters.json
 
+## ayuda adicional
+Formato de imágen 
+![]("")
+![goku db](https://dragonballapp.vercel.app/static/images/saga/GokuPeque.png "goku db")
+
 ## Simbología de los nombres de los personajes
 
 |  Prefijo/Código | Significado  |  Ejemplo |
