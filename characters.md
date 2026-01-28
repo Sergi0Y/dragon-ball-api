@@ -18,6 +18,7 @@
 
 #### super
 &bull; base &rarr; https://dragonballapp.vercel.app/static/images/sagaSuper/Goku_Super.png
+
 &bull; base (2)&rarr; https://dragonball-api.com/characters/goku_normal.webp
 &bull; ssj1 &rarr; https://dragonball-api.com/transformaciones/goku_ssj.webp
 &bull; dios ssj &rarr; https://dragonball-api.com/transformaciones/goku_ssjb.webp
