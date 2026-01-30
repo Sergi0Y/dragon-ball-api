@@ -8,15 +8,89 @@
     {
       "id": 1,
       "name": "Goku",
-      "form": "Base",
-      "rank": "B",
-      "url_img": "https://images.ストップ.com/ejemplo-gohan-beast.png"
+      "form": "B-Goku-Chico",
+      "rank": "C",
+      "category": "evolutionary",
+      "url_img": "https://imgur.com/dX8eFLb"
     },
     {
       "id": 2,
+      "name": "Goku",
+      "form": "z-goku-Base",
+      "rank": "B",
+      "category": "evolutionary",
+      "url_img": "https://imgur.com/JTXvhVJ"
+    },
+    {
+      "id": 3,
+      "name": "Goku",
+      "form": "z-goku-ssj1",
+      "rank": "A",
+      "category": "evolutionary",
+      "url_img": "https://imgur.com/J9Td2F5"
+    },
+    {
+      "id": 4,
+      "name": "Goku",
+      "form": "z-goku-ssj2",
+      "rank": "A",
+      "category": "evolutionary",
+      "url_img": "https://imgur.com/XECreWu"
+    },
+    {
+      "id": 5,
+      "name": "Goku",
+      "form": "z-goku-ssj3",
+      "rank": "A",
+      "category": "evolutionary",
+      "url_img": "https://imgur.com/OGNL3A1"
+    },
+    {
+      "id": 6,
+      "name": "Goku",
+      "form": "z-goku-ssj4",
+      "rank": "A",
+      "category": "evolutionary",
+      "url_img": "https://imgur.com/J7qCj9E"
+    },
+    {
+      "id": 7,
+      "name": "Goku",
+      "form": "s-goku-god",
+      "rank": "A",
+      "category": "evolutionary",
+      "url_img": "https://imgur.com/50yanhg"
+    },
+    {
+      "id": 8,
+      "name": "Goku",
+      "form": "s-goku-blue",
+      "rank": "A",
+      "category": "evolutionary",
+      "url_img": "https://imgur.com/hws58lw"
+    },
+    {
+      "id": 9,
+      "name": "Goku",
+      "form": "ui-sign",
+      "rank": "S",
+      "category": "evolutionary",
+      "url_img": "https://imgur.com/hZZRaBd"
+    },
+    {
+      "id": 10,
+      "name": "Goku",
+      "form": "ui",
+      "rank": "Z",
+      "category": "evolutionary",
+      "url_img": "https://imgur.com/lHQiWqY"
+    },
+    {
+      "id": 11,
       "name": "Vegeta",
       "form": "Base",
       "rank": "B",
+      "category": "evolutionary",
       "url_img": "https://images.ストップ.com/ejemplo-vegeta-ego.png"
     }
   ]

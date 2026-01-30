@@ -7,6 +7,9 @@
 https://raw.githubusercontent.com/Sergi0Y/dragon-ball-api/refs/heads/main/Json/characters.json
 
 ## ayuda adicional
+Fuentes de DB Legends:
+[DB LEGENDS](https://dblegendshub.com/characters)
+
 Formato de imágen 
 ![]("")
 ![goku db](https://dragonballapp.vercel.app/static/images/saga/GokuPeque.png "goku db")
@@ -15,6 +18,7 @@ Formato de imágen
 
 |  Prefijo/Código | Significado  |  Ejemplo |
 | :------------: | :------------: | :------------: |
+|  **B**  |  Saga Dragon Ball |  B-Goku-Chico |   
 |  **Z**  |  Saga Dragon Ball Z |  Z-Goku-SSJ3 |   
 |  **S** |  Saga Dragon Ball Super (Anime) |  S-Vegeta-Blue | 
 |  **M**  |  Exclusivo del Manga |  M-Vegeta-UltraEgo |   
@@ -26,8 +30,8 @@ Formato de imágen
 
 |  Rank | descripción  | Ejemplos  |
 | :------------: | :------------: | :------------: |
-| **Z**  | Nivel deidades o seres supremos.  | Whis, Bills, Zeno-sama.  |
-| **S** | Lo más alto del poder mortal actual  | Gohan Beast, Vegeta Ultra Ego, Goku UI.  |
-| **A**  | Guerreros de élite o niveles SSJ Blue/God.  | Golden Frieza, Hit, Broly.  |
+| **Z**  | Nivel deidades -seres supremos.  | Whis, Bills, Zeno-sama, Vegeta Ultra Ego, Goku UI  |
+| **S** | Lo más alto del poder mortal actual, niveles SSJ blue  | Gohan Beast, Piccolo Orange  |
+| **A**  | Guerreros de élite o niveles SSJ God.  | Golden Frieza, Hit, Broly.  |
 | **B**  | Niveles SSJ2, SSJ3 o guerreros promedio  | Piccolo (antes de Super Hero), Trunks.  |
 | **C**  | Humanos fuertes o niveles base  | Krillin, Tien, Yamcha.  |
