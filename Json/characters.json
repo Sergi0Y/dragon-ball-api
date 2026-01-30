@@ -4,7 +4,7 @@
     "autor": "Sergio Yáñez",
     "version": "1.0"
   },
-  "personajes": [
+  "characters": [
     {
       "id": 1,
       "name": "Goku",

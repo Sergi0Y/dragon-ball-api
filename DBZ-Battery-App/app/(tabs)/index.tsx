@@ -31,7 +31,7 @@ export default function App() {
 
       //FILTRADO ARRAY CHARACTERS
       const encontrado = datos.characters.find(
-        (c: any) => c.name === 'Gokú' && c.rank === rangoBuscado
+        (c: any) => c.name === 'Goku' && c.rank === rangoBuscado
       );
 
       //ACTUALIZAMOS ESTADO PARA QUE EL RENDER CAMBIE
