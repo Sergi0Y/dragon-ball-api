@@ -12,11 +12,11 @@ export default function App() {
     try{
       //CÁLCULO DEL RANGO
       let rangoBuscado = 'C';
-      if (energia>=0.9) rangoBuscado = 'Z';
-      else if (energia>=0.7) rangoBuscado = 'S';
-      else if (energia>=0.5) rangoBuscado = 'A';
-      else if (energia>=0.3) rangoBuscado = 'B';
-      else if (energia<0.3) rangoBuscado = 'C';
+      if (energia>=0.9) rangoBuscado = 'z';
+      else if (energia>=0.7) rangoBuscado = 's';
+      else if (energia>=0.5) rangoBuscado = 'a';
+      else if (energia>=0.3) rangoBuscado = 'b';
+      else if (energia<0.3) rangoBuscado = 'c';
 
       // PPETICIÓN GITHUB (LINK RAW)
       const respuesta = await fetch('https://raw.githubusercontent.com/Sergi0Y/dragon-ball-api/refs/heads/main/Json/characters.json');
@@ -24,8 +24,8 @@ export default function App() {
 
       //FILTRADO ARRAY CHARACTERS
       const encontrado = datos.characters.find(
-        (c: any) => c.name === 'Goku' && c.rank === rangoBuscado
-      );
+        (c: any) => c.id_name === 'vegeta' && c.rank === rangoBuscado
+);
 
       //ACTUALIZAMOS ESTADO PARA QUE EL RENDER CAMBIE
 
