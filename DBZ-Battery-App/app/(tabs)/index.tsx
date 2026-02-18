@@ -57,7 +57,7 @@ export default function App() {
       </Text>
       {personaje ? (
       <View style={styles.card}>
-        <Text style={styles.formName}>{personaje.form}</Text>
+        <Text style={styles.formName}>{personaje.name}</Text>
         <Image source={{ uri: personaje.url_img }} style={styles.imagenChar} />
         <Text style={styles.rango}> Rango actual: {personaje.rank}</Text>  
       </View>
@@ -88,14 +88,16 @@ const styles = StyleSheet.create({
     padding: 10,
   },
   imagenChar: {
-    width: 250,
-    height: 250,
+    width: 500,
+    height: 500,
     resizeMode: 'contain', //PARA EVITAR QUE SE DEFORME
   },
   rango: {
-    color: '#FF9900',
+    color: '#ff9900',
     marginTop: 10,
-    fontStyle: 'italic',
+    fontFamily: 'times',
+    padding: 5,
+    backgroundColor: '#000',
   },
   formName:{
     color:'#fff',
