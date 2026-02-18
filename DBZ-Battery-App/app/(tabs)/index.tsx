@@ -8,13 +8,6 @@ export default function App() {
   const [nivelBateria, setNivelBateria] = useState(0);
   const [personaje, setPersonaje] = useState<any>(null);
 
-  const obtenerEnergia = async () => {
-    const energia = await Battery.getBatteryLevelAsync(); //ESPERAMOS AL SENSOR
-    /* await: Detiene la ejecución de esa función un milisegundo hasta que el sensor responda, evitando que la App use un dato vacío. */
-
-    setNivelBateria(energia); //GUARDAMOS EL RESULTADO
-  };
-
   const obtenerPersonaje = async (energia: number)=>{
     try{
       //CÁLCULO DEL RANGO
@@ -45,11 +38,12 @@ export default function App() {
   useEffect(() => {
     const iniciar = async ()=>{
       // MIDE LA BATERÍA
-      const energia = await Battery.getBatteryLevelAsync();
-      setNivelBateria(energia);
+      //const energia = await Battery.getBatteryLevelAsync();
+      const energy = 0.9;
+      setNivelBateria(energy);
 
       //BUSCA EL PERSONAJE CON LA ENERGÍA
-      obtenerPersonaje(energia);
+      obtenerPersonaje(energy);
     }
     iniciar();
   }, []);

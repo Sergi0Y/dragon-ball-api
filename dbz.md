@@ -30,8 +30,10 @@ Formato de imágen
 
 |  Rank | descripción  | Ejemplos  |
 | :------------: | :------------: | :------------: |
-| **Z**  | Nivel deidades -seres supremos.  | Whis, Bills, Zeno-sama, Vegeta Ultra Ego, Goku UI  |
-| **S** | Lo más alto del poder mortal actual, niveles SSJ blue  | Gohan Beast, Piccolo Orange  |
-| **A**  | Guerreros de élite o niveles SSJ God.  | Golden Frieza, Hit, Broly.  |
-| **B**  | Niveles SSJ2, SSJ3 o guerreros promedio  | Piccolo (antes de Super Hero), Trunks.  |
+| **Z**  | Nivel deidades - seres supremos.  | Whis, Bills, Vegeta Ultra Ego, Goku UI  |
+| **S** |  niveles SSJ blue  | Goku y Vegeta blue, Golden Frieza, Hit  |
+| **A +**  | niveles SSJ God. | Broly, gohan definitivo  |
+| **A**  | Lo más alto del poder mortal actual  | ssj4, ssj3  |
+| **B +**  | Guerreros de élite  | Piccolo, ssj2.  |
+| **B**  | Niveles SSJ1o guerreros promedio  | Piccolo   |
 | **C**  | Humanos fuertes o niveles base  | Krillin, Tien, Yamcha.  |
