@@ -10,7 +10,7 @@
       "id_name": "goku",
       "name": "goku chico",
       "form": "b-goku-chico",
-      "rank": "c",
+      "rank": "d",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/dX8eFLb.png"
     },
@@ -19,7 +19,7 @@
       "id_name": "goku",
       "name": "goku base",
       "form": "z-goku-base",
-      "rank": "b",
+      "rank": "d+",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/JTXvhVJ.png"
     },
@@ -28,7 +28,7 @@
       "id_name": "goku",
       "name": "goku ssj1",
       "form": "z-goku-ssj1",
-      "rank": "a",
+      "rank": "c",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/J9Td2F5.png"
     },
@@ -37,7 +37,7 @@
       "id_name": "goku",
       "name": "goku ssj2",
       "form": "z-goku-ssj2",
-      "rank": "a",
+      "rank": "c+",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/XECreWu.png"
     },
@@ -46,7 +46,7 @@
       "id_name": "goku",
       "name": "goku ssj3",
       "form": "z-goku-ssj3",
-      "rank": "a",
+      "rank": "b",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/OGNL3A1.png"
     },
@@ -55,7 +55,7 @@
       "id_name": "goku",
       "name": "goku ssj4",
       "form": "gt-goku-ssj4",
-      "rank": "a",
+      "rank": "b+",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/J7qCj9E.png"
     },
@@ -64,7 +64,7 @@
       "id_name": "goku",
       "name": "goku god",
       "form": "s-goku-god",
-      "rank": "s",
+      "rank": "a",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/50yanhg.png"
     },
@@ -73,7 +73,7 @@
       "id_name": "goku",
       "name": "goku blue",
       "form": "s-goku-blue",
-      "rank": "s",
+      "rank": "a+",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/hws58lw.png"
     },
@@ -101,7 +101,7 @@
       "id_name": "vegeta",
       "name": "vegeta saiyajin",
       "form": "z-vegeta-saiyajin",
-      "rank": "b",
+      "rank": "d",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/0nY8GIZ.png"
     },
@@ -110,7 +110,7 @@
       "id_name": "vegeta",
       "name": "vegeta base",
       "form": "z-vegeta-base",
-      "rank": "b",
+      "rank": "d+",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/mqeN5H8.png"
     },
@@ -119,7 +119,7 @@
       "id_name": "vegeta",
       "name": "vegeta ssj1",
       "form": "z-vegeta-ssj1",
-      "rank": "a",
+      "rank": "c",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/sRPhjkn.png"
     },
@@ -128,7 +128,7 @@
       "id_name": "vegeta",
       "name": "vegeta ssj2",
       "form": "z-vegeta-ssj2",
-      "rank": "a",
+      "rank": "c+",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/11WjTUD.jpeg"
     },
@@ -137,7 +137,7 @@
       "id_name": "vegeta",
       "name": "vegeta ssj3",
       "form": "z-vegeta-ssj3",
-      "rank": "a",
+      "rank": "b",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/DHhFtoX.png"
     },
@@ -146,7 +146,7 @@
       "id_name": "vegeta",
       "name": "vegeta ssj4",
       "form": "gt-vegeta-ssj4",
-      "rank": "a",
+      "rank": "b+",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/aUUAfLM.png"
     },
@@ -155,7 +155,7 @@
       "id_name": "vegeta",
       "name": "vegeta god",
       "form": "s-vegeta-god",
-      "rank": "s",
+      "rank": "a",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/qWDBhHE.png"
     },
@@ -164,7 +164,7 @@
       "id_name": "vegeta",
       "name": "vegeta blue",
       "form": "s-vegeta-blue",
-      "rank": "s",
+      "rank": "a+",
       "category": "evolutionary",
       "url_img": "https://i.imgur.com/BYTh7qT.png"
     },
