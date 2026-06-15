@@ -12,7 +12,7 @@
       "form": "b-goku-chico",
       "rank": "c",
       "category": "base",
-      "url_img": "https://i.imgur.com/dX8eFLb.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-chico.png"
     },
     {
       "id": 2,
@@ -21,7 +21,7 @@
       "form": "z-goku-base",
       "rank": "d+",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/JTXvhVJ.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-base.png"
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
       "form": "z-goku-ssj1",
       "rank": "c",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/J9Td2F5.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-ssj1.png"
     },
     {
       "id": 4,
@@ -39,7 +39,7 @@
       "form": "z-goku-ssj2",
       "rank": "c+",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/XECreWu.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-ssj2.png"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "form": "z-goku-ssj3",
       "rank": "b",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/OGNL3A1.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-ssj3.png"
     },
     {
       "id": 6,
@@ -57,7 +57,7 @@
       "form": "gt-goku-ssj4",
       "rank": "b+",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/J7qCj9E.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-ssj4.png"
     },
     {
       "id": 7,
@@ -66,7 +66,7 @@
       "form": "s-goku-god",
       "rank": "a",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/50yanhg.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-god.png"
     },
     {
       "id": 8,
@@ -75,7 +75,7 @@
       "form": "s-goku-blue",
       "rank": "a+",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/hws58lw.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-blue.png"
     },
     {
       "id": 9,
@@ -84,7 +84,7 @@
       "form": "s-goku-ui-sign",
       "rank": "s",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/hZZRaBd.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-ui-sign.png"
     },
     {
       "id": 10,
@@ -93,7 +93,7 @@
       "form": "s-goku-ui",
       "rank": "z",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/lHQiWqY.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-ui.png"
     },
 
     {
@@ -112,7 +112,7 @@
       "form": "z-vegeta-base",
       "rank": "d+",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/7aLdxTJ.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/final/v-base.png"
     },
     
     {
@@ -122,7 +122,7 @@
       "form": "z-vegeta-ssj1",
       "rank": "c",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/a1H5Zsu.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/final/v-ssj1.png"
     },
     {
       "id": 14,
@@ -131,7 +131,7 @@
       "form": "z-vegeta-ssj2",
       "rank": "c+",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/EMNpPXM.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/final/v-ssj2.png"
     },
     {
       "id": 15,
@@ -140,7 +140,7 @@
       "form": "z-vegeta-ssj3",
       "rank": "b",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/7sDawlz.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/final/v-ssj3.png"
     },
     {
       "id": 16,
@@ -149,7 +149,7 @@
       "form": "gt-vegeta-ssj4",
       "rank": "b+",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/Vz5dEtx.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/final/v-ssj4.png"
     },
     {
       "id": 17,
@@ -158,7 +158,7 @@
       "form": "s-vegeta-god",
       "rank": "a",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/FOE9ZxA.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/final/v-god.png"
     },
     {
       "id": 18,
@@ -167,7 +167,7 @@
       "form": "s-vegeta-blue",
       "rank": "a+",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/5sxOyFA.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/final/v-blue.png"
     },
     {
       "id": 19,
@@ -176,7 +176,7 @@
       "form": "s-vegeta-blue-evo",
       "rank": "s",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/cuZfHno.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/final/v-blue-evo.png"
     },
     {
       "id": 20,
@@ -185,7 +185,7 @@
       "form": "s-vegeta-ultra-ego",
       "rank": "z",
       "category": "evolutionary",
-      "url_img": "https://i.imgur.com/JG8rCc8.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/final/v-ultra-ego.png"
     }
   ]
 }
