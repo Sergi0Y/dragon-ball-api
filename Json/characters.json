@@ -12,7 +12,7 @@
       "form": "b-goku-chico",
       "rank": "c",
       "category": "base",
-      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-chico.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-chico.png"
     },
     {
       "id": 2,
@@ -21,7 +21,7 @@
       "form": "z-goku-base",
       "rank": "d+",
       "category": "evolutionary",
-      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-base.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-base.png"
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
       "form": "z-goku-ssj1",
       "rank": "c",
       "category": "evolutionary",
-      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-ssj1.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-ssj1.png"
     },
     {
       "id": 4,
@@ -39,7 +39,7 @@
       "form": "z-goku-ssj2",
       "rank": "c+",
       "category": "evolutionary",
-      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-ssj2.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-ssj2.png"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "form": "z-goku-ssj3",
       "rank": "b",
       "category": "evolutionary",
-      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-ssj3.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-ssj3.png"
     },
     {
       "id": 6,
@@ -57,7 +57,7 @@
       "form": "gt-goku-ssj4",
       "rank": "b+",
       "category": "evolutionary",
-      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-ssj4.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-ssj4.png"
     },
     {
       "id": 7,
@@ -66,7 +66,7 @@
       "form": "s-goku-god",
       "rank": "a",
       "category": "evolutionary",
-      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-god.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-god.png"
     },
     {
       "id": 8,
@@ -75,7 +75,7 @@
       "form": "s-goku-blue",
       "rank": "a+",
       "category": "evolutionary",
-      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-blue.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-blue.png"
     },
     {
       "id": 9,
@@ -84,7 +84,7 @@
       "form": "s-goku-ui-sign",
       "rank": "s",
       "category": "evolutionary",
-      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-ui-sign.png"
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-ui-sign.png"
     },
     {
       "id": 10,
@@ -92,8 +92,8 @@
       "name": "goku ui",
       "form": "s-goku-ui",
       "rank": "z",
-      "category": "evolutionary",
-      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/goku_final/g-ui.png"
+      "category": "evolutionary",      
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-ui.png"
     },
 
     {
