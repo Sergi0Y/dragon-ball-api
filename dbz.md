@@ -22,7 +22,7 @@ Formato de imágen
 |  **Z**  |  Saga Dragon Ball Z |  Z-Goku-SSJ3 |   
 |  **S** |  Saga Dragon Ball Super (Anime) |  S-Vegeta-Blue | 
 |  **M**  |  Exclusivo del Manga |  M-Vegeta-UltraEgo |   
-|  **H**  |  Películas/Super Hero |  H- Gohan-Beast |   
+|  **H**  |  Películas/Super Hero |  H-Gohan-Beast |   
 |  **GT**  |  Saga GT |  GT-Goku-SSJ4 |     
 
 
@@ -31,9 +31,12 @@ Formato de imágen
 |  Rank | descripción  | Ejemplos  |
 | :------------: | :------------: | :------------: |
 | **Z**  | Nivel deidades - seres supremos.  | Whis, Bills, Vegeta Ultra Ego, Goku UI  |
-| **S** |  niveles SSJ blue  | Goku y Vegeta blue, Golden Frieza, Hit  |
-| **A +**  | niveles SSJ God. | Broly, gohan definitivo  |
-| **A**  | Lo más alto del poder mortal actual  | ssj4, ssj3  |
-| **B +**  | Guerreros de élite  | Piccolo, ssj2.  |
-| **B**  | Niveles SSJ1o guerreros promedio  | Piccolo   |
-| **C**  | Humanos fuertes o niveles base  | Krillin, Tien, Yamcha.  |
+| **S** |  nivel casi deidad  | Goku ui-sign y Vegeta ultra evo |
+| **A +**  |niveles SSJ blue  | Goku y Vegeta blue, Golden Frieza, Hit 
+| **A**  |  niveles SSJ God. | ssj god  |
+| **B +**  | Lo más alto del poder mortal actual  | ssj4  |
+| **B**  | Niveles guerreros élite  | ssj3   |
+| **C**  | superior o similar a ssj1  | ssj2  |
+| **C +**  | Niveles SSJ1o guerreros promedio  | ssj1  |
+| **D**  | Humanos fuertes o niveles base  | Krillin, Tien, Yamcha.  |
+| **D +**  | Humanos, personajes pequeños/primera aparición  | Krillin, Tien, Yamcha.  |
