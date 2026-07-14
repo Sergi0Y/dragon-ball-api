@@ -194,7 +194,7 @@
       "form": "b-demon-piccolo",
       "rank": "d",
       "category": "base",
-      "url_img": ""
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/piccolo/demon-piccolo.png"
     },
     {
       "id": 22,
@@ -203,7 +203,7 @@
       "form": "b-demon-piccolo-y",
       "rank": "d+",
       "category": "base",
-      "url_img": ""
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/piccolo/demon-piccolo-y.png"
     },
     {
       "id": 23,
@@ -212,7 +212,7 @@
       "form": "b-majunia-piccolo",
       "rank": "c+",
       "category": "base",
-      "url_img": ""
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/piccolo/majunia.png"
     },
     {
       "id": 24,
@@ -221,7 +221,7 @@
       "form": "z-piccolo-raditz",
       "rank": "c",
       "category": "base",
-      "url_img": ""
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/piccolo/piccolo-raditz.png"
     },
     {
       "id": 25,
@@ -230,7 +230,7 @@
       "form": "z-piccolo-raditz-full",
       "rank": "c+",
       "category": "base",
-      "url_img": ""
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/piccolo/piccolo-raditz2.png"
     },
     {
       "id": 26,
@@ -239,7 +239,7 @@
       "form": "z-piccolo-nail",
       "rank": "b",
       "category": "evolutionary",
-      "url_img": ""
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/piccolo/piccolo-nail.png"
     },
     {
       "id": 27,
@@ -248,7 +248,7 @@
       "form": "z-piccolo-kami",
       "rank": "b+",
       "category": "evolutionary",
-      "url_img": ""
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/piccolo/piccolo-kami.png"
     },
     {
       "id": 28,
@@ -257,7 +257,7 @@
       "form": "s-piccolo",
       "rank": "a",
       "category": "base",
-      "url_img": ""
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/piccolo/piccolo-super.png"
     },
     {
       "id": 29,
@@ -266,7 +266,7 @@
       "form": "s-piccolo-orange",
       "rank": "s",
       "category": "base",
-      "url_img": ""
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/piccolo/piccolo-orange.png"
     }
   ]
 }
