@@ -261,11 +261,29 @@
       "url_img": "https://sergi0y.github.io/dragon-ball-api/piccolo/piccolo-super.png"
     },
     {
+      "id": 28,
+      "id_name": "piccolo",
+      "name": "piccolo super",
+      "form": "s-piccolo",
+      "rank": "a+",
+      "category": "base",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/piccolo/piccolo-super.png"
+    },
+    {
       "id": 29,
       "id_name": "piccolo",
       "name": "piccolo orange",
       "form": "s-piccolo-orange",
       "rank": "s",
+      "category": "base",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/piccolo/piccolo-orange.png"
+    },
+    {
+      "id": 29,
+      "id_name": "piccolo",
+      "name": "piccolo orange",
+      "form": "s-piccolo-orange",
+      "rank": "z",
       "category": "base",
       "url_img": "https://sergi0y.github.io/dragon-ball-api/piccolo/piccolo-orange.png"
     }
