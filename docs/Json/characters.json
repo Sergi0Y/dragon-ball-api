@@ -203,8 +203,9 @@
       "form": "b-demon-piccolo-y",
       "rank": "d+",
       "category": "base",
-      "url_img": ""
+      "url_img": "https://github.com/Sergi0Y/dragon-ball-api/blob/main/docs/piccolo/demon-piccolo-y.png"
     },
+
     {
       "id": 23,
       "id_name": "piccolo",
@@ -212,7 +213,7 @@
       "form": "b-majunia-piccolo",
       "rank": "c+",
       "category": "base",
-      "url_img": ""
+      "url_img": "https://github.com/Sergi0Y/dragon-ball-api/blob/main/docs/piccolo/majunia.png"
     },
     {
       "id": 24,
@@ -221,7 +222,7 @@
       "form": "z-piccolo-raditz",
       "rank": "c",
       "category": "base",
-      "url_img": ""
+      "url_img": "https://github.com/Sergi0Y/dragon-ball-api/blob/main/docs/piccolo/piccolo-raditz.png"
     },
     {
       "id": 25,
@@ -230,7 +231,7 @@
       "form": "z-piccolo-raditz-full",
       "rank": "c+",
       "category": "base",
-      "url_img": ""
+      "url_img": "https://github.com/Sergi0Y/dragon-ball-api/blob/main/docs/piccolo/piccolo-raditz2.png"
     },
     {
       "id": 26,
@@ -239,7 +240,7 @@
       "form": "z-piccolo-nail",
       "rank": "b",
       "category": "evolutionary",
-      "url_img": ""
+      "url_img": "https://github.com/Sergi0Y/dragon-ball-api/blob/main/docs/piccolo/piccolo-nail.png"
     },
     {
       "id": 27,
@@ -248,7 +249,7 @@
       "form": "z-piccolo-kami",
       "rank": "b+",
       "category": "evolutionary",
-      "url_img": ""
+      "url_img": "https://github.com/Sergi0Y/dragon-ball-api/blob/main/docs/piccolo/piccolo-kami.png"
     },
     {
       "id": 28,
@@ -257,7 +258,7 @@
       "form": "s-piccolo",
       "rank": "a",
       "category": "base",
-      "url_img": ""
+      "url_img": "https://github.com/Sergi0Y/dragon-ball-api/blob/main/docs/piccolo/piccolo-super.png"
     },
     {
       "id": 29,
@@ -266,7 +267,7 @@
       "form": "s-piccolo-orange",
       "rank": "s",
       "category": "base",
-      "url_img": ""
+      "url_img": "https://github.com/Sergi0Y/dragon-ball-api/blob/main/docs/piccolo/piccolo-orange.png"
     }
   ]
 }
