@@ -1,0 +1,272 @@
+{
+  "info": {
+    "nombre_api": "dragon ball dbs private api",
+    "autor": "sergio yáñez",
+    "version": "1.0"
+  },
+  "characters": [
+    {
+      "id": 1,
+      "id_name": "goku",
+      "name": "goku chico",
+      "form": "b-goku-chico",
+      "rank": "d",
+      "category": "base",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-chico.png"
+    },
+    {
+      "id": 2,
+      "id_name": "goku",
+      "name": "goku base",
+      "form": "z-goku-base",
+      "rank": "d+",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-base.png"
+    },
+    {
+      "id": 3,
+      "id_name": "goku",
+      "name": "goku ssj1",
+      "form": "z-goku-ssj1",
+      "rank": "c",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-ssj1.png"
+    },
+    {
+      "id": 4,
+      "id_name": "goku",
+      "name": "goku ssj2",
+      "form": "z-goku-ssj2",
+      "rank": "c+",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-ssj2.png"
+    },
+    {
+      "id": 5,
+      "id_name": "goku",
+      "name": "goku ssj3",
+      "form": "z-goku-ssj3",
+      "rank": "b",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-ssj3.png"
+    },
+    {
+      "id": 6,
+      "id_name": "goku",
+      "name": "goku ssj4",
+      "form": "gt-goku-ssj4",
+      "rank": "b+",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-ssj4.png"
+    },
+    {
+      "id": 7,
+      "id_name": "goku",
+      "name": "goku god",
+      "form": "s-goku-god",
+      "rank": "a",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-god.png"
+    },
+    {
+      "id": 8,
+      "id_name": "goku",
+      "name": "goku blue",
+      "form": "s-goku-blue",
+      "rank": "a+",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-blue.png"
+    },
+    {
+      "id": 9,
+      "id_name": "goku",
+      "name": "goku ui sign",
+      "form": "s-goku-ui-sign",
+      "rank": "s",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-ui-sign.png"
+    },
+    {
+      "id": 10,
+      "id_name": "goku",
+      "name": "goku ui",
+      "form": "s-goku-ui",
+      "rank": "z",
+      "category": "evolutionary",      
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/goku/g-ui.png"
+    },
+
+    {
+      "id": 11,
+      "id_name": "vegeta",
+      "name": "vegeta saiyajin",
+      "form": "z-vegeta-saiyajin",
+      "rank": "d",
+      "category": "base",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/v-saiyajin.png"
+    },
+    {
+      "id": 12,
+      "id_name": "vegeta",
+      "name": "vegeta base",
+      "form": "z-vegeta-base",
+      "rank": "d+",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/v-base.png"
+    },
+    
+    {
+      "id": 13,
+      "id_name": "vegeta",
+      "name": "vegeta ssj1",
+      "form": "z-vegeta-ssj1",
+      "rank": "c",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/v-ssj1.png"
+    },
+    {
+      "id": 14,
+      "id_name": "vegeta",
+      "name": "vegeta ssj2",
+      "form": "z-vegeta-ssj2",
+      "rank": "c+",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/v-ssj2.png"
+    },
+    {
+      "id": 15,
+      "id_name": "vegeta",
+      "name": "vegeta ssj3",
+      "form": "z-vegeta-ssj3",
+      "rank": "b",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/v-ssj3.png"
+    },
+    {
+      "id": 16,
+      "id_name": "vegeta",
+      "name": "vegeta ssj4",
+      "form": "gt-vegeta-ssj4",
+      "rank": "b+",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/v-ssj4.png"
+    },
+    {
+      "id": 17,
+      "id_name": "vegeta",
+      "name": "vegeta god",
+      "form": "s-vegeta-god",
+      "rank": "a",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/v-god.png"
+    },
+    {
+      "id": 18,
+      "id_name": "vegeta",
+      "name": "vegeta blue",
+      "form": "s-vegeta-blue",
+      "rank": "a+",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/v-blue.png"
+    },
+    {
+      "id": 19,
+      "id_name": "vegeta",
+      "name": "vegeta blue evo",
+      "form": "s-vegeta-blue-evo",
+      "rank": "s",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/v-blue-evo.png"
+    },
+    {
+      "id": 20,
+      "id_name": "vegeta",
+      "name": "vegeta ultra ego",
+      "form": "s-vegeta-ultra-ego",
+      "rank": "z",
+      "category": "evolutionary",
+      "url_img": "https://sergi0y.github.io/dragon-ball-api/vegeta/v-ultra-ego.png"
+    },
+    {
+      "id": 21,
+      "id_name": "piccolo",
+      "name": "demon piccolo",
+      "form": "b-demon-piccolo",
+      "rank": "d",
+      "category": "base",
+      "url_img": "https://github.com/Sergi0Y/dragon-ball-api/blob/main/docs/piccolo/demon-piccolo.png"
+    },
+    {
+      "id": 22,
+      "id_name": "piccolo",
+      "name": "demon piccolo young",
+      "form": "b-demon-piccolo-y",
+      "rank": "d+",
+      "category": "base",
+      "url_img": ""
+    },
+    {
+      "id": 23,
+      "id_name": "piccolo",
+      "name": "majunia",
+      "form": "b-majunia-piccolo",
+      "rank": "c+",
+      "category": "base",
+      "url_img": ""
+    },
+    {
+      "id": 24,
+      "id_name": "piccolo",
+      "name": "piccolo raditz",
+      "form": "z-piccolo-raditz",
+      "rank": "c",
+      "category": "base",
+      "url_img": ""
+    },
+    {
+      "id": 25,
+      "id_name": "piccolo",
+      "name": "piccolo raditz full",
+      "form": "z-piccolo-raditz-full",
+      "rank": "c+",
+      "category": "base",
+      "url_img": ""
+    },
+    {
+      "id": 26,
+      "id_name": "piccolo",
+      "name": "piccolo fusion nail",
+      "form": "z-piccolo-nail",
+      "rank": "b",
+      "category": "evolutionary",
+      "url_img": ""
+    },
+    {
+      "id": 27,
+      "id_name": "piccolo",
+      "name": "piccolo fusion kami",
+      "form": "z-piccolo-kami",
+      "rank": "b+",
+      "category": "evolutionary",
+      "url_img": ""
+    },
+    {
+      "id": 28,
+      "id_name": "piccolo",
+      "name": "piccolo super",
+      "form": "s-piccolo",
+      "rank": "a",
+      "category": "base",
+      "url_img": ""
+    },
+    {
+      "id": 29,
+      "id_name": "piccolo",
+      "name": "piccolo orange",
+      "form": "s-piccolo-orange",
+      "rank": "s",
+      "category": "base",
+      "url_img": ""
+    }
+  ]
+}
